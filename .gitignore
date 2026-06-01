@@ -1,0 +1,24 @@
+# Worktree isolation directory
+.worktrees/
+
+# Downloaded tools
+download/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# HTML reports
+*.html
+
+# IDE
+.vscode/
+.idea/
+
+# Reasonix skill config (local only)
+.reasonix/
+
+# Generated output
+*.html
+code_check_results.json
