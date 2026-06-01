@@ -1,4 +1,4 @@
-# C/C++ Code Checker
+# C/C++ Code Forge
 
 基于 **cppcheck** + **clang-tidy** 的 C/C++ 代码静态分析工具，生成 HTML 对比报告。
 
